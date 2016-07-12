@@ -34,7 +34,7 @@
     "tap": "6.1.1"
   },
   "dependencies": {
-    "jsonwebtoken": "7.1.0",
+    "jsonwebtoken": "7.1.1",
     "seneca": "2.1.0",
     "seneca-balance-client": "0.5.0",
     "seneca-mesh": "0.7.0",
