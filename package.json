@@ -38,6 +38,6 @@
     "seneca": "2.1.0",
     "seneca-balance-client": "0.5.0",
     "seneca-mesh": "0.8.0",
-    "wreck": "8.0.0"
+    "wreck": "8.0.1"
   }
 }
