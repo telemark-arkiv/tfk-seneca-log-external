@@ -29,7 +29,7 @@
     "url": "git://github.com/telemark/tfk-seneca-log-external"
   },
   "devDependencies": {
-    "coveralls": "2.11.11",
+    "coveralls": "2.11.12",
     "standard": "7.1.2",
     "tap": "6.1.1"
   },
