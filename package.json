@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-log-external",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Logs to external services",
   "license": "MIT",
   "author": {
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/telemark/tfk-seneca-log-external",
   "main": "service.js",
   "engines": {
-    "node": ">=4.4.7"
+    "node": ">=4.6.0"
   },
   "scripts": {
     "test": "standard && nsp check && tap --reporter=spec test/**/*.js",
