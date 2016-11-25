@@ -1,6 +1,6 @@
 {
   "name": "tfk-seneca-log-external",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Logs to external services",
   "license": "MIT",
   "author": {
